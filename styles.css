@@ -1,0 +1,70 @@
+textarea {
+    width: 80%;
+    height: 10vh;
+    margin: 1rem;
+    padding: 1rem;
+    display: block;
+
+}
+
+#output{
+    border: 1px solid black;
+    width: 80%;
+    height: 10vh;
+    margin: 1rem;
+    padding: 1rem;
+    display: block;
+
+}
+
+header{
+    background-color: #8fbc8f;
+    color: black;
+    text-align: center;
+    padding: 2rem;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Shantell Sans', cursive;
+}
+
+#txt-Input{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2rem;
+}
+
+#btn-translate{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100px;
+    width: 400px;
+}
+
+#output{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+footer{
+    background-color: #8fbc8f;
+    color: black;
+    text-align: center;
+    font-size: larger;
+    font-weight: bolder;
+    padding: 2.5rem;
+
+}
+
+#hero{
+    margin-left: auto;
+    margin-right: auto;
+}
